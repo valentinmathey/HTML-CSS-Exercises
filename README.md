@@ -1,4 +1,4 @@
-# 🏆 HTML & CSS Exercises
+# 🎨 HTML & CSS Exercises
 ¡Bienvenido a mi repositorio de ejercicios de HTML y CSS! Aquí encontrarás un espacio dedicado a fortalecer tus habilidades en el desarrollo web utilizando HTML y CSS. Estos dos lenguajes fundamentales te permitirán crear páginas web visualmente atractivas, interactivas y responsivas.
 
 ## 💫Objetivo
